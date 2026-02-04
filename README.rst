@@ -18,7 +18,7 @@ intentions.
 This project was used as demonstration of vulnerabilities during my
 `Web vulnerabilities`_ presentation at EVO Summer Python Lab'17.
 
-Running
+Runnin
 =======
 
 Docker-compose
